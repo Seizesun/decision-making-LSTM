@@ -37,7 +37,6 @@ def generate_data(hr,datastd,n_runs):
     return (dataset)
 
 
-    
 def reshapedata(dataset):
     data=[0]
     for j in range(len(dataset)):
